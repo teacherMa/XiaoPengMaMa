@@ -4,4 +4,7 @@
     <string name="open_drawer_description">DrawerOpened</string>
     <string name="close_drawer_description">DrawerClosed</string>
 
+    <string name="create_new_page">新建页</string>
+    <string name="history_page">历史记录页</string>
+
 </resources>
