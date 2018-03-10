@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">XiaoPengMaMa</string>
+
+    <string name="open_drawer_description">DrawerOpened</string>
+    <string name="close_drawer_description">DrawerClosed</string>
+
 </resources>
